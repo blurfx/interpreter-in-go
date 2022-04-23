@@ -23,7 +23,7 @@ const (
 
 	LT     = "<"
 	GT     = ">"
-	EQ     = "=="터
+	EQ     = "=="
 	NOT_EQ = "!="
 
 	COMMA     = ","
