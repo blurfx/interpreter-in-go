@@ -28,6 +28,7 @@ const (
 
 	COMMA     = ","
 	SEMICOLON = ";"
+	COLON     = ":"
 
 	LBRACKET = "["
 	RBRACKET = "]"
